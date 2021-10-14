@@ -10,6 +10,8 @@ I’m taking a broad definition of pluralism: pluralists are people believing th
 - [Part 2: Pluralism, Sex and Gender](2_Pluralism_Sex&Gender.ipynb)
 - [Part 3: Pluralism, Race and Ethnicity](3_Pluralism_Race&Ethnicity.ipynb)
 
+Please feel free to contribute, this is only a first exploration with many opportunities for improvement and additional insight!
+
 ---
 See also:
 - [Open call for data scientists](https://github.com/bruchansky/pluralism)

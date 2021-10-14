@@ -21,9 +21,7 @@ The content of this project is licensed under the Creative Commons Attribution-N
 
 ## Use Cases
 
-Pluralism in Europe
-- [Part 1: Human Values](Pluralism_in_Europe/1_Pluralism_Human_Values.ipynb)
-- [Part 2: Sex and Gender](Pluralism_in_Europe/2_Pluralism_Sex&Gender.ipynb)
-- [Part 3: Race and Ethnicity](Pluralism_in_Europe/3_Pluralism_Race&Ethnicity.ipynb)
+- [Pluralism in Europe](Pluralism_in_Europe/README.md)
+
 
 ## References

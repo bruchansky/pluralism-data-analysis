@@ -17,7 +17,7 @@ More about this project: https://plural.world/alternatives/measuring-pluralism/
 
 **License**
 
-The content of this project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), and the underlying source code is licensed under the MIT license.
+The content of this project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), and the underlying source code is licensed under GPL-3.0 License.
 
 ## Use Cases
 

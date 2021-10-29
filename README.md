@@ -25,3 +25,12 @@ The content of this project is licensed under the Creative Commons Attribution-N
 
 
 ## References
+- The World of Indicators: https://www.cambridge.org/core/books/world-of-indicators/C7903E69E0329A256EF02C3CB5C918ED
+- Liberty (Incorporating Four Essays on Liberty) by Isaiah Berlin: https://www.amazon.com/Four-Essays-Liberty-Isaiah-Berlin/dp/0192810340
+- Measuring Cultural and Ethnic Diversity: http://csi.nuff.ox.ac.uk/wp-content/uploads/2020/06/Measuring-ethnic-and-cultural-affiliation-20200609.pdf
+- What is the Point of Equality? (Elizabeth S. Anderson): https://www.philosophy.rutgers.edu/joomlatools-files/docman-files/4ElizabethAnderson.pdf
+- The Human Value Scale: https://www.europeansocialsurvey.org/docs/findings/ESS_Findings_HVS.pdf
+
+
+
+

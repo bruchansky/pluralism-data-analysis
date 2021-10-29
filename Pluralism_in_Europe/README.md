@@ -4,7 +4,7 @@ To answer this question, I've explored freely available results from the Europea
 
 I’ve compared results from the UK, France and Germany. Which led to some important questions regarding diversity and its meaning, discrimination and its impact on people’s values.
 
-I’m taking a broad definition of pluralism here: pluralists are people believing that diversity is a good thing for society. Pluralists are people who value not just specific differences but all of them, all forms of diversity, without prejudice. It is thus not enough to sympathize with a specific community or minority group to be considered a pluralist. Pluralists value difference whatever form it takes.
+I’m taking a broad definition of pluralism here: pluralists are people believing that diversity is a good thing for society. Pluralists are people who value not just specific differences but all of them, all forms of diversity. It is thus not enough to sympathize with a specific community or minority group to be considered a pluralist. Pluralists value difference whatever form it takes.
 
 - [Part 1: Pluralism and Human Values](1_Pluralism_Human_Values.ipynb)
 - [Part 2: Pluralism, Sex and Gender](2_Pluralism_Sex&Gender.ipynb)

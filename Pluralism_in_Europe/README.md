@@ -1,4 +1,4 @@
-## Who are Europeans believing in diversity and what values do they share? 
+## Who believes in diversity and what values do they share? 
 
 To answer this question, I've explored freely available results from the European Social Survey (2018 edition) and in particular its 21-item measure of human values designed by Shalom H. Schwartz.
 
@@ -14,8 +14,6 @@ Please feel free to comment and contribute, this is only a first exploration wit
 
 ---
 See also:
-- [Open call for data scientists](https://github.com/bruchansky/pluralism)
-- More info about this project: https://plural.world/alternatives/measuring-pluralism/
 - ESS Round 9: European Social Survey Round 9 Data (2018). Data file edition 3.1. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. http://dx.doi.org/10.21338/NSD-ESS9-2018
 - The Human Value Scale: https://www.europeansocialsurvey.org/docs/findings/ESS_Findings_HVS.pdf
 

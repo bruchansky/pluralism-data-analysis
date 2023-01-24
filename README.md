@@ -1,4 +1,4 @@
-# Measuring Pluralism - Open Call for Data Scientists
+# Measuring Pluralism 
 **Models, techniques and use cases on how to measure pluralism and diversity.**
 
 Pluralism is a very central but elusive contemporary value. Pluralism is the belief that diversity is beneficial to society. Most of us would agree, but what does diversity exactly mean? How to measure it and tell whether a society is more or less diverse? 
@@ -9,17 +9,15 @@ What makes pluralism such a hard topic is that it deals with human values (usual
 
 Does it mean we should stop trying to measure diversity? On the contrary! What we need are many measures examining pluralism and diversity from various aspects. The more pluralistic measures we gather, the more they will make us think and say something meaningful about the level of diversity in a society. 
 
-The aim of this open source project is to gather models, techniques and use cases on how to measure pluralism and diversity, so that they could be reused and expanded by any data scientist or researcher interested in the topic.
+The aim of this open source project is to gather models, techniques and use cases on how to measure pluralism and diversity, so that they could be reused and expanded.
 
-Please feel free to contribute, share your own analysis, add comments and links in the reference section. This is an ongoing project without a deadline. An event or publication could be considered depending on the quantity and quality of contributions. Make sure to post your contact details or send an email at contact@plural.world if you would like to stay informed.
-
-More about this project: https://plural.world/measuring-pluralism/
+Please feel free to contribute, share your own analysis, add comments and links in the reference section.
 
 **License**
 
 The content of this project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), and the underlying source code is licensed under GPL-3.0 License.
 
-## Use Cases
+## Contributions
 
 - [Pluralism in Europe](Pluralism_in_Europe/README.md)
 
